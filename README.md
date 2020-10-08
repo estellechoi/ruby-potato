@@ -1,4 +1,6 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# R⃣ u⃣ b⃣ y⃣ P⃣ o⃣ t⃣ a⃣ t⃣ o⃣
+
+> Ruby Potato is a markdown editor for designers and front-end engineers. This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 

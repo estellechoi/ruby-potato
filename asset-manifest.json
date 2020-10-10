@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/ruby-potato/static/css/main.c470a59e.chunk.css",
+    "main.js": "/ruby-potato/static/js/main.8c1f3e44.chunk.js",
+    "main.js.map": "/ruby-potato/static/js/main.8c1f3e44.chunk.js.map",
+    "runtime-main.js": "/ruby-potato/static/js/runtime-main.3cff5e1e.js",
+    "runtime-main.js.map": "/ruby-potato/static/js/runtime-main.3cff5e1e.js.map",
+    "static/js/2.1a7595c7.chunk.js": "/ruby-potato/static/js/2.1a7595c7.chunk.js",
+    "static/js/2.1a7595c7.chunk.js.map": "/ruby-potato/static/js/2.1a7595c7.chunk.js.map",
+    "index.html": "/ruby-potato/index.html",
+    "precache-manifest.64aaa410267cad156afe3d417b9083b0.js": "/ruby-potato/precache-manifest.64aaa410267cad156afe3d417b9083b0.js",
+    "service-worker.js": "/ruby-potato/service-worker.js",
+    "static/css/main.c470a59e.chunk.css.map": "/ruby-potato/static/css/main.c470a59e.chunk.css.map",
+    "static/js/2.1a7595c7.chunk.js.LICENSE.txt": "/ruby-potato/static/js/2.1a7595c7.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3cff5e1e.js",
+    "static/js/2.1a7595c7.chunk.js",
+    "static/css/main.c470a59e.chunk.css",
+    "static/js/main.8c1f3e44.chunk.js"
+  ]
+}

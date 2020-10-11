@@ -1,9 +1,10 @@
 import React from "react";
 import axios from "axios";
-import "./App.css";
-import Movie from "./Movie";
+import "./Home.css";
+import Movie from "./../components/Movie";
+import ColorSystem from "./../components/ColorSystem";
 
-class ClassApp extends React.Component {
+class Home extends React.Component {
 	state = {
 		isLoading: true,
 	};
@@ -39,6 +40,7 @@ class ClassApp extends React.Component {
 			// Because we are using JSX not pure Html. Just to let React identify it is Html class, not Javascript class.
 			// likewise, use "htmlFor" instead of "for" for <label> tag.
 			<section className="container">
+				<ColorSystem />
 				{isLoading ? (
 					<div className="loader">
 						<span className="loader__text">Loading...</span>
@@ -63,4 +65,4 @@ class ClassApp extends React.Component {
 	}
 }
 
-export default ClassApp;
+export default Home;
